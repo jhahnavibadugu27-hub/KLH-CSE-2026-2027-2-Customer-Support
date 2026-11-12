@@ -1,1 +1,111 @@
 
+# PROMPTING VS RAG VS FINE-TUNING
+
+### Comparative Study of Generative AI Approaches for Customer Support Automation
+
+**Official Project:** Prompting vs RAG vs Fine-Tuning for Customer Support Automation
+
+## Team Details
+
+| **Field**          | **Details**                            |
+| ------------------ | -------------------------------------- |
+| Team ID            | TEAM2                                  |
+| Team Size          | 2                                      |
+| Student Names      | B. Jhahnavi, P. Mouvya Sri             |
+| Student IDs        | To be updated                          |
+| Project Supervisor | To be updated                          |
+| Academic Year      | 2026–2027                              |
+| Department         | Computer Science and Engineering       |
+
+## Abstract
+
+This project focuses on comparing three important Generative AI approaches: Prompt Engineering, Retrieval-Augmented Generation (RAG), and Fine-Tuning for customer support automation. The main objective is to understand how these approaches can be applied to develop intelligent systems capable of answering customer queries accurately and efficiently.
+
+The Prompt Engineering approach will use carefully designed instructions to guide a Large Language Model (LLM) in generating relevant responses. The RAG approach will retrieve relevant information from an external knowledge source and use it as context for generating more accurate and informative answers. The Fine-Tuning approach will explore adapting a pre-trained language model using domain-specific customer support data to improve its performance for a particular task.
+
+The project aims to implement and compare these three approaches based on response accuracy, relevance, response time, reliability, and overall performance. Through this comparison, the study intends to identify the strengths, limitations, and suitable applications of each approach in customer support automation.
+
+## Planned Technology Stack
+
+- **Programming Language:** Python
+- **LLM / API:** Google Gemini API
+- **Prompting:** Prompt Engineering
+- **RAG:** Retrieval-Augmented Generation
+- **Fine-Tuning:** Pre-trained Language Model Adaptation
+- **Data Processing:** Python Libraries
+- **Development Environment:** Visual Studio Code
+- **Version Control:** Git and GitHub
+- **Documentation:** Markdown
+
+Additional frameworks, libraries, databases, and evaluation tools will be selected and documented during implementation.
+
+## Repository Structure
+
+```text
+Prompting-vs-RAG-vs-Fine-Tuning/
+│
+├── src/
+├── docs/
+├── data/
+├── results/
+├── reports/
+├── README.md
+└── .gitignore
+```
+
+## Setup and Execution
+
+**Current status:** Initial development environment setup and LLM API experimentation are in progress.
+
+The planned setup will include:
+
+1. Install Python and the required development tools.
+2. Clone the GitHub repository.
+3. Create and activate a Python virtual environment.
+4. Install the required project dependencies.
+5. Configure the LLM API securely using environment variables.
+6. Implement the Prompt Engineering approach.
+7. Develop the RAG-based customer support system.
+8. Explore and implement the Fine-Tuning approach.
+9. Execute test cases and compare the results.
+
+Detailed installation instructions, execution commands, and configuration details will be added and verified as development progresses.
+
+**Note:** API keys and other sensitive credentials must not be uploaded to GitHub.
+
+## Project Phase Status
+
+**Current Phase: Phase 1 – Project Initialization and Planning**
+
+| **Component**                     | **Status**  |
+| --------------------------------- | ----------- |
+| Project selection                 | Completed   |
+| Team formation                    | Completed   |
+| Repository creation               | Completed   |
+| Project planning                  | In progress |
+| Architecture design               | In progress |
+| Development environment           | In progress |
+| Prompt Engineering implementation | Not started |
+| RAG implementation                | Not started |
+| Fine-Tuning implementation        | Not started |
+| Comparative evaluation            | Not started |
+| Results and documentation         | Not started |
+| Final deployment                  | Not started |
+
+## Project Objectives
+
+- Study and understand Prompt Engineering, RAG, and Fine-Tuning.
+- Develop a customer support automation system using Generative AI.
+- Implement a Prompt Engineering-based response generation approach.
+- Develop a RAG-based system for retrieving relevant customer support information.
+- Explore Fine-Tuning for adapting language models to customer support tasks.
+- Compare the three approaches using common customer support queries.
+- Evaluate response accuracy, relevance, response time, and reliability.
+- Identify the advantages, limitations, and suitable applications of each approach.
+- Document the implementation process, experiments, and evaluation results.
+
+---
+
+**Institution:** Koneru Lakshmaiah Education Foundation
+**Department:** Computer Science and Engineering
+**Project:** Prompting vs RAG vs Fine-Tuning for Customer Support Automation
