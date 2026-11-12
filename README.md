@@ -94,8 +94,8 @@ Detailed installation instructions, execution commands, and configuration detail
 | Team formation | Completed |
 | Repository creation | Completed |
 | Project planning | In progress |
-| Architecture design | In progress |
-| Development environment | In progress |
+| Architecture design | Pending |
+| Development environment | Pending |
 | Prompt Engineering implementation | Not started |
 | RAG implementation | Not started |
 | Fine-Tuning implementation | Not started |
