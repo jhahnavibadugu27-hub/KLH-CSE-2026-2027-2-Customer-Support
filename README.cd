@@ -1,4 +1,3 @@
-
 # PROMPTING VS RAG VS FINE-TUNING
 
 ### Comparative Study of Generative AI Approaches for Customer Support Automation
@@ -7,15 +6,15 @@
 
 ## Team Details
 
-| **Field**          | **Details**                            |
-| ------------------ | -------------------------------------- |
-| Team ID            | TEAM2                                  |
-| Team Size          | 2                                      |
-| Student Names      | B. Jhahnavi, P. Mouvya Sri             |
-| Student IDs        | To be updated                          |
-| Project Supervisor | To be updated                          |
-| Academic Year      | 2026–2027                              |
-| Department         | Computer Science and Engineering       |
+| **Field** | **Details** |
+|---|---|
+| Team ID | TEAM2 |
+| Team Size | 2 |
+| Student Names | B. Jhahnavi, P. Mouvya Sri |
+| Student IDs | 2520030452, 2520030449 |
+| Project Supervisor | Dr. Anu Raghavi |
+| Academic Year | 2026–2027 |
+| Department | Computer Science and Engineering |
 
 ## Abstract
 
@@ -45,10 +44,22 @@ Additional frameworks, libraries, databases, and evaluation tools will be select
 Prompting-vs-RAG-vs-Fine-Tuning/
 │
 ├── src/
+│   ├── prompting/
+│   ├── rag/
+│   └── fine_tuning/
+│
 ├── docs/
+│   ├── architecture/
+│   ├── methodology/
+│   └── documentation/
+│
 ├── data/
+│   └── README.md
+│
 ├── results/
+│
 ├── reports/
+│
 ├── README.md
 └── .gitignore
 ```
@@ -77,20 +88,20 @@ Detailed installation instructions, execution commands, and configuration detail
 
 **Current Phase: Phase 1 – Project Initialization and Planning**
 
-| **Component**                     | **Status**  |
-| --------------------------------- | ----------- |
-| Project selection                 | Completed   |
-| Team formation                    | Completed   |
-| Repository creation               | Completed   |
-| Project planning                  | In progress |
-| Architecture design               | In progress |
-| Development environment           | In progress |
+| **Component** | **Status** |
+|---|---|
+| Project selection | Completed |
+| Team formation | Completed |
+| Repository creation | Completed |
+| Project planning | In progress |
+| Architecture design | In progress |
+| Development environment | In progress |
 | Prompt Engineering implementation | Not started |
-| RAG implementation                | Not started |
-| Fine-Tuning implementation        | Not started |
-| Comparative evaluation            | Not started |
-| Results and documentation         | Not started |
-| Final deployment                  | Not started |
+| RAG implementation | Not started |
+| Fine-Tuning implementation | Not started |
+| Comparative evaluation | Not started |
+| Results and documentation | Not started |
+| Final deployment | Not started |
 
 ## Project Objectives
 
@@ -107,5 +118,7 @@ Detailed installation instructions, execution commands, and configuration detail
 ---
 
 **Institution:** Koneru Lakshmaiah Education Foundation
+
 **Department:** Computer Science and Engineering
+
 **Project:** Prompting vs RAG vs Fine-Tuning for Customer Support Automation
